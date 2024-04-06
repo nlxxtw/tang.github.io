@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tw.she.ci/2024/04/06/yu-dao-de-yi-xie-wen-ti/</loc>
+    <loc>https://tw.she.ci/2019/08/27/blog-open-source/</loc>
     <lastmod>2024-04-06</lastmod>
   </url>  <url>
     <loc>https://tw.she.ci/2024/04/04/hexo-bo-ke-shang-chuan-github-he-shi-shi-yu-lan-shi-pin/</loc>
@@ -12,8 +12,5 @@
   </url>  <url>
     <loc>https://tw.she.ci/2024/04/05/yu-dao-jsdelivr-github-jia-su-wen-ti/</loc>
     <lastmod>2024-04-05</lastmod>
-  </url>  <url>
-    <loc>https://tw.she.ci/2019/08/27/blog-open-source/</loc>
-    <lastmod>2024-04-04</lastmod>
   </url>
 </urlset>
