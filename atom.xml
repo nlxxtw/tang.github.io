@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JackTang</title>
+  
+  <subtitle>山茶花&amp;&amp;白玫瑰</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://tw.she.ci/"/>
+  <updated>2024-04-06T06:16:17.577Z</updated>
+  <id>https://tw.she.ci/</id>
+  
+  <author>
+    <name>JackTang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://tw.she.ci/2024/04/06/yu-dao-de-yi-xie-wen-ti/"/>
+    <id>https://tw.she.ci/2024/04/06/yu-dao-de-yi-xie-wen-ti/</id>
+    <published>2024-04-06T06:09:40.403Z</published>
+    <updated>2024-04-06T06:16:17.577Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>遇到的一些问题</title>
+    <link href="https://tw.she.ci/2024/04/05/yu-dao-jsdelivr-github-jia-su-wen-ti/"/>
+    <id>https://tw.she.ci/2024/04/05/yu-dao-jsdelivr-github-jia-su-wen-ti/</id>
+    <published>2024-04-05T12:16:52.000Z</published>
+    <updated>2024-04-05T14:02:05.092Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客上传github和实时预览视频</title>
+    <link href="https://tw.she.ci/2024/04/04/hexo-bo-ke-shang-chuan-github-he-shi-shi-yu-lan-shi-pin/"/>
+    <id>https://tw.she.ci/2024/04/04/hexo-bo-ke-shang-chuan-github-he-shi-shi-yu-lan-shi-pin/</id>
+    <published>2024-04-04T08:29:41.000Z</published>
+    <updated>2024-04-06T05:25:06.911Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件安装与配置" scheme="https://tw.she.ci/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    
+    
+      <category term="Hexo" scheme="https://tw.she.ci/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://tw.she.ci/tags/Github/"/>
+    
+      <category term="博客" scheme="https://tw.she.ci/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客如何插入视频</title>
+    <link href="https://tw.she.ci/2024/03/25/hexo-bo-ke-ru-he-cha-ru-shi-pin/"/>
+    <id>https://tw.she.ci/2024/03/25/hexo-bo-ke-ru-he-cha-ru-shi-pin/</id>
+    <published>2024-03-25T15:33:29.106Z</published>
+    <updated>2024-04-06T05:24:43.416Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件安装与配置" scheme="https://tw.she.ci/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    
+    
+      <category term="Hexo" scheme="https://tw.she.ci/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://tw.she.ci/tags/Github/"/>
+    
+      <category term="博客" scheme="https://tw.she.ci/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客开源</title>
+    <link href="https://tw.she.ci/2019/08/27/blog-open-source/"/>
+    <id>https://tw.she.ci/2019/08/27/blog-open-source/</id>
+    <published>2019-08-27T03:41:03.000Z</published>
+    <updated>2024-04-04T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件安装与配置" scheme="https://tw.she.ci/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    
+    
+      <category term="Hexo" scheme="https://tw.she.ci/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://tw.she.ci/tags/Github/"/>
+    
+      <category term="博客" scheme="https://tw.she.ci/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
